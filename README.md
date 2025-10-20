@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Python**
 
-- 📝 I regularly write articles on [https://www.codehemu.com/](https://www.codehemu.in/)
+- 📝 I regularly write articles on [https://www.codehemu.in/](https://www.codehemu.in/)
 
 - 💬 Ask me about **JavaScript**
 
