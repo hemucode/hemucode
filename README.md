@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **codehemu@gmail.com**
+- 📫 How to reach me **hello@codehemu.in**
 
 - ⚡ Fun fact **I think I am Crazy**
 
